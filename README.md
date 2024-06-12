@@ -2,7 +2,7 @@
 NAME: HealthSup
 INDUSTRY: Health
 
-# Project Title - 
+# HealthSup - 
 Comprehensive Health Care Solution
 
 # Problem Statement:

@@ -1,9 +1,8 @@
 # HealthSup - Website
-NAME: HealthSup
-INDUSTRY: Health
+[Name: HealthSup]
+[Industry: Health]
 
-# HealthSup - 
-Comprehensive Health Care Solution
+# HealthSup - Comprehensive Health Care Solution
 
 # Problem Statement:
 

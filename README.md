@@ -17,7 +17,7 @@ To address these challenges, HealthSup provides a centralized platform to stream
 This website is currently a static prototype, with no backend functionality or database integration. Users should be aware of these limitations.
 
 # URL Link:
-Project Demo Link - [HealthSup Demo]()
+Project Demo Link - [HealthSup Demo](harivanshx.github.io/HealthSup/)
 
 Project Demo Video Link – 
 

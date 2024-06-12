@@ -46,17 +46,12 @@ HealthSup addresses key objectives by providing a centralized platform for healt
 
 # Azure Technologies Used for Project:
 1. Static Web App Services
-   ![Static Web App]()
+   ![Static Web App](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(19).png)
 
 
-2. Web Application Firewall Policies (WAF)
-   ![Firewall]()
 
-3. Language AI
-   ![Language AI]()
-
-4. Azure Bot Service
-   ![Azure Bot Service]()
+3. Azure Health Bot Service
+   ![Azure Health Bot Service](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(18).png)
 
 # Purpose and Functionality:
 The purpose of HealthSup is to provide a comprehensive healthcare platform with the following functionalities:
@@ -73,25 +68,25 @@ The purpose of HealthSup is to provide a comprehensive healthcare platform with 
 # Project Demo Screenshots:
 
 # Home Page
-![Home Page]()
+![Home Page](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(11).png)
 
 # Chatbot
-![Chatbot]()
+![Chatbot](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(14).png)
 
 # Contact Us
-![Contact Us]()
+![Contact Us](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(16).png)
 
 # Services Page
-![Services Page]()
+![Services Page](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(13).png)
 
 # Chatbot Page
-![Chatbot Page]()
+![Chatbot Page](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(14).png)
 
-# Health Monitoring Page
-![Health Monitoring Page]()
 
 # Azure Services
-![Azure Services]()
+![Azure Services](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(17).png)
+
+
 
 # Team Member (GitHub ID):
 Harivansh Bhardwwaj: [GitHub](https://github.com/harivanshx)

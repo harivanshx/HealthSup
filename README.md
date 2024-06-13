@@ -47,10 +47,13 @@ HealthSup addresses key objectives by providing a centralized platform for healt
 1. Static Web App Services
    ![Static Web App](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(19).png)
 
-
+2. Storage Account
+    ![Static Web App](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(20).png)
 
 3. Azure Health Bot Service
    ![Azure Health Bot Service](https://github.com/harivanshx/HealthSup/blob/master/Screenshot%20(18).png)
+
+   
 
 # Purpose and Functionality:
 The purpose of HealthSup is to provide a comprehensive healthcare platform with the following functionalities:

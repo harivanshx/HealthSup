@@ -91,8 +91,9 @@ The purpose of HealthSup is to provide a comprehensive healthcare platform with 
 
 
 # Team Member (GitHub ID):
-Harivansh Bhardwwaj: [GitHub](https://github.com/harivanshx)
+Harivansh Bhardwaj: [GitHub](https://github.com/harivanshx)
 
 
 # Contact:
-E-mail: harivanshb1@gmail.com
+E-mail: harivanshbhardwaj57@gmail.com & harivanshb1@gmail.com
+
